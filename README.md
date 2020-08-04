@@ -1,2 +1,2 @@
-# Screenshot-app
-This is a screenshot app that lets you take a screenshot easily and get saved to the directory you show.
+# Word Dictionary
+This is a word dictionary app that lets you input any English word and get its meaning immiedietly
